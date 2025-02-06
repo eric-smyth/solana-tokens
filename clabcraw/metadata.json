@@ -1,0 +1,12 @@
+{
+    "name": "ClabCraw AI",
+    "symbol": "cAI",
+    "description": "Hunger Games x Meme Communities",
+    "image": "https://raw.githubusercontent.com/eric-smyth/solana-tokens/refs/heads/main/clabcraw/logo.png",
+    "attributes": [
+      {
+        "trait_type": "Item",
+        "value": "Developer Portal"
+      }
+    ]
+  }
